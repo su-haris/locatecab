@@ -1,16 +1,25 @@
-# locatecab
+# LocateCAB AJCE
 
-A new Flutter application.
+A vehicle sharing app for Amal Jyothi College made with Flutter.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+Locate cab is very similar to Uber for reaching taxi services - which was
+successful in delivering the output connecting taxi owner, taxi driver and the
+passenger. 
 
-A few resources to get you started if this is your first Flutter project:
+The objective of the proposed system is to provide easy transport
+for students and staff for everyday morning and evening and useful for hostelers
+during their journey from college to home and vice-versa and also for staff who
+uses private vehicles can provide lift to the students or staff.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Tools used
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Front-end: Flutter is an open-source mobile application development SDK
+created by Google. It is used to develop applications for Android and iOS. The
+main characteristics are fast development, expressive and flexible UI.
+
+Back-end: Google Cloud Platform Services such as Firebase and Maps/Places API are used. 
+Firebase Realtime Database is used for storing location and other details of the users. 
+Firebase Auth is used for authenticating users using Amal Jyothi Credentials. 
+Maps/Places API for location based services.
